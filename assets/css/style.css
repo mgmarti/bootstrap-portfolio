@@ -1,0 +1,35 @@
+body {
+    background-color: #efefef;
+    color: #1b5a39;
+    font-family: 'Roboto Condensed', Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 
+    font-size: 0.9rem;
+}
+
+h2 {
+    font-family: 'Roboto Condensed', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.navbar {
+    background-color: #efefef;
+    color: #1b5a39;
+    border-color: #1b5a39;
+}
+
+.navbar a{
+    color: #1b5a39;
+}
+
+.navbar-toggler {
+    border-color: green;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+}
+.container {
+    background-color: #efefef;
+}
+
+
+
