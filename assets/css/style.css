@@ -2,7 +2,6 @@ body {
     background-color: #efefef;
     color: #1b5a39;
     font-family: 'Roboto Condensed', Verdana, Geneva, Tahoma, sans-serif;
-    font-family: 
     font-size: 0.9rem;
 }
 
@@ -27,8 +26,31 @@ h2 {
 .navbar-brand {
     font-size: 3rem;
 }
+
+a:active {
+    color: #1b5a39;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:visited {
+    color: #1b5a39;
+}
+
 .container {
     background-color: #efefef;
+}
+
+.btn {
+    background-color: #1b5a39;
+    color: #efefef;
+}
+
+.btn:hover {
+    background-color: #bec9c6;
+    color: #1b5a39;
 }
 
 
